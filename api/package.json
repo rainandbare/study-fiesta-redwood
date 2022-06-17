@@ -5,5 +5,8 @@
   "dependencies": {
     "@redwoodjs/api": "1.5.2",
     "@redwoodjs/graphql-server": "1.5.2"
+  },
+  "devDependencies": {
+    "@netlify/zip-it-and-ship-it": "^5.11.0"
   }
 }
